@@ -59,32 +59,32 @@ Dashboard ini dibuat untuk membantu tim HR mendapatkan pemahaman menyeluruh terk
 - Menganalisis berbagai aspek seperti lembur, tingkat kepuasan kerja, serta karakteristik demografis yang berpotensi berpengaruh terhadap attrition.
 - Mengambil langkah-langkah preventif guna meningkatkan retensi karyawan dan menekan biaya akibat pergantian tenaga kerja.
 
-    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/dashboard.jpg">
+    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/dashboard.PNG">
 
 ## Conclusion
 
 1. Seberapa tinggi tingkat attrition di perusahaan ini?
     * Jawaban: Tingkat attrition di perusahaan ini adalah sekitar 17%. Ini berarti bahwa satu dari enam karyawan meninggalkan perusahaan dalam jangka waktu tertentu, menunjukkan bahwa tingkat keluar karyawan cukup signifikan.
 
-    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attrition.png" width="500">
+    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attrition.PNG" width="500">
 
 2. Faktor-faktor apa saja yang mempengaruhi keputusan karyawan untuk meninggalkan perusahaan?
     * Jawaban: Beberapa faktor utama yang mempengaruhi keputusan karyawan untuk meninggalkan perusahaan meliputi:
         * Overtime: Karyawan yang sering bekerja lembur cenderung memiliki kemungkinan lebih tinggi untuk keluar dari perusahaan.
         * Status Perkawinan: Karyawan yang berstatus Single cenderung memiliki tingkat attrition yang lebih tinggi, kemungkinan karena mereka lebih fleksibel untuk berpindah dan lebih terbuka terhadap peluang karier baru.
 
-    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/faktorattrition.png" width="500">
+    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/factorattrition.png" width="500">
 
 3. Apakah ada perbedaan tingkat attrition berdasarkan role atau departemen tertentu di perusahaan?
-    * Jawaban: Ya, terdapat perbedaan tingkat attrition berdasarkan role dan departemen. Misalnya, role seperti Laboratory Technician dan departemen seperti Research and Development menunjukkan tingkat attrition yang lebih tinggi dibandingkan dengan posisi atau departemen lainnya. Ini mengindikasikan bahwa faktor seperti beban kerja, tingkat stres, dan kemungkinan struktur kompensasi di area tersebut dapat memengaruhi keputusan karyawan untuk keluar dari perusahaan.
+    * Jawaban: Ya, terdapat perbedaan tingkat attrition berdasarkan role dan departemen. Misalnya, role seperti Sales Representative dan departemen seperti Sales menunjukkan tingkat attrition yang lebih tinggi dibandingkan dengan posisi atau departemen lainnya. Ini mengindikasikan bahwa faktor seperti beban kerja, tingkat stres, dan kemungkinan struktur kompensasi di area tersebut dapat memengaruhi keputusan karyawan untuk keluar dari perusahaan.
 
-    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attritionby_jobrole.png" width="500">
-    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attritionby_department.png" width="500">
+    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attritionby_jobrole.PNG" width="500">
+    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attritionby_department.PNG" width="500">
 
 4. Bagaimana pengaruh overtime terhadap keputusan karyawan untuk keluar dari perusahaan?
     * Jawaban: Lembur memiliki pengaruh signifikan terhadap keputusan karyawan untuk meninggalkan perusahaan. Data menunjukkan bahwa karyawan yang sering bekerja lembur (overtime) memiliki tingkat attrition yang lebih tinggi. Ini mungkin terkait dengan tingkat stres yang lebih tinggi dan ketidakseimbangan antara kehidupan kerja dan pribadi.
     
-    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attritionby_overtime.png" width="500">
+    <img src="https://raw.githubusercontent.com/nrazizahmr/bpds/main/images/attritionby_overtime.PNG" width="500">
 
 ### Rekomendasi Action Items (Optional)
 
@@ -95,7 +95,7 @@ Berikan beberapa rekomendasi action items yang harus dilakukan perusahaan guna m
 2. Peningkatan Kepuasan dan Lingkungan Kerja:
     * Terapkan inisiatif untuk meningkatkan kepuasan kerja serta ciptakan atmosfer kerja yang lebih positif dan mendukung, agar karyawan merasa lebih dihargai dan termotivasi untuk bertahan di perusahaan.
 3. Strategi Retensi di Departemen Penting:
-    * Prioritaskan program retensi di departemen dan posisi yang memiliki tingkat attrition tinggi, seperti Research and Development. Strategi ini bisa meliputi pemberian insentif, pengakuan atas kontribusi karyawan, serta pengembangan jalur karier yang lebih terstruktur.
+    * Prioritaskan program retensi di departemen dan posisi yang memiliki tingkat attrition tinggi, seperti Sales. Strategi ini bisa meliputi pemberian insentif, pengakuan atas kontribusi karyawan, serta pengembangan jalur karier yang lebih terstruktur.
 4. Pemantauan dan Respons Berkala:
     * Gunakan dashboard secara aktif untuk memantau dinamika yang memengaruhi attrition, serta ambil tindakan segera jika terdapat indikasi permasalahan agar dapat ditangani sebelum berkembang lebih jauh.
 
